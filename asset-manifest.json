@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Khabar_For_All/static/css/main.0fc4e3b5.chunk.css",
+    "main.js": "/Khabar_For_All/static/js/main.3167bce5.chunk.js",
+    "main.js.map": "/Khabar_For_All/static/js/main.3167bce5.chunk.js.map",
+    "runtime-main.js": "/Khabar_For_All/static/js/runtime-main.8d93dbe4.js",
+    "runtime-main.js.map": "/Khabar_For_All/static/js/runtime-main.8d93dbe4.js.map",
+    "static/js/2.5aec9b34.chunk.js": "/Khabar_For_All/static/js/2.5aec9b34.chunk.js",
+    "static/js/2.5aec9b34.chunk.js.map": "/Khabar_For_All/static/js/2.5aec9b34.chunk.js.map",
+    "static/js/3.a15b7b66.chunk.js": "/Khabar_For_All/static/js/3.a15b7b66.chunk.js",
+    "static/js/3.a15b7b66.chunk.js.map": "/Khabar_For_All/static/js/3.a15b7b66.chunk.js.map",
+    "index.html": "/Khabar_For_All/index.html",
+    "static/css/main.0fc4e3b5.chunk.css.map": "/Khabar_For_All/static/css/main.0fc4e3b5.chunk.css.map",
+    "static/js/2.5aec9b34.chunk.js.LICENSE.txt": "/Khabar_For_All/static/js/2.5aec9b34.chunk.js.LICENSE.txt",
+    "static/media/DefNEWS.823edbe8.jpg": "/Khabar_For_All/static/media/DefNEWS.823edbe8.jpg",
+    "static/media/Spin.5f03f4e3.gif": "/Khabar_For_All/static/media/Spin.5f03f4e3.gif",
+    "static/media/sports.58e9803b.png": "/Khabar_For_All/static/media/sports.58e9803b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d93dbe4.js",
+    "static/js/2.5aec9b34.chunk.js",
+    "static/css/main.0fc4e3b5.chunk.css",
+    "static/js/main.3167bce5.chunk.js"
+  ]
+}
