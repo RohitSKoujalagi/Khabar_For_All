@@ -29,7 +29,7 @@ function News(props) {
 
 
 
-    let ApiURL = `https://newsapi.org/v2/everything?q=${props.category}&apiKey=${state.apiKey}&pageSize${state.page}`;
+    let ApiURL = `http://newsapi.org/v2/everything?q=${props.category}&apiKey=${state.apiKey}&pageSize${state.page}`;
 
 
 
